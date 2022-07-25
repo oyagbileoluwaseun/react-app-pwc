@@ -1,0 +1,29 @@
+{/* <Card
+        name="Oyagbile Oluwaseun"
+        state="Osun State"
+        stack="Full Stack"
+        description="I am a Software Engineer"
+      />
+      <Card
+        name="Oyagbile Oluwaseun"
+        state="Osun State"
+        stack="Full Stack"
+        description="I am a Software Engineer"
+      />
+      <Card
+        name="Joan "
+        state="Lagos State"
+        stack="Full Stack"
+        description="I am a Software Engineer"
+      /> */}
+
+      {/* {StudentsData.map((student) => (
+        <Card
+        key = {student.id}
+          name={student.name}
+          state={student.state}
+          stack={student.stack}
+          description={student.description}
+          jobTitle={student.jobTitle}
+        />
+      ))} */}
